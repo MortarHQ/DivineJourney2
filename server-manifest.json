@@ -1,7 +1,7 @@
 {
   "name": "Divine Journey 2",
   "author": "Mortar",
-  "version": "2.21.0_mortar_1",
+  "version": "2.21.0_mortar_2",
   "description": "",
   "fileApi": "https://www.landmine.top/mc/DivineJourney2",
   "files": [
@@ -6172,10 +6172,6 @@
     {
       "path": "mods/ContentTweaker-1.12.2-4.10.0.jar",
       "hash": "0d8efbe8c66e50b2cd82f30fb67f5bc368625f26"
-    },
-    {
-      "path": "mods/Controlling-3.0.10.jar",
-      "hash": "151671af56599d39ef5ca41bf9bda3584b6818e1"
     },
     {
       "path": "mods/Controlling-3.0.12.3.jar",
